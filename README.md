@@ -1,1 +1,3 @@
 # trading-bot-project
+
+WIP
